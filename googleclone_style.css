@@ -1,0 +1,279 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+  .p{
+    word-spacing: 2px;
+  }
+  
+.linear-scale {
+    margin-bottom: 5rem;
+}
+
+.linear-scale h4 {
+    padding-left: 30%;
+}
+
+.scales {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 33%;
+    padding-right: 33%;
+}
+
+.scale2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.multi-choice-grid {
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 5rem;
+}
+
+.mcg {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    margin-left: 4rem;
+}
+
+.m1 {
+    display: flex;
+    flex-direction: column;
+    text-indent: -50px;
+    font-size:18px;
+}
+
+.m2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+.m21 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.m22 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.m23 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tbg {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    margin-left: 4rem;
+}
+
+.thick-box-grid {
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 5rem;
+}
+
+.s1 {
+    display: flex;
+    flex-direction: column;
+    text-indent: -50px;
+    font-size:18px;
+   }
+
+.s2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+.s21 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.container{
+  padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 5rem;
+    border:1px solid;
+    text-align:center;
+    height:250px;
+    width:100px;
+    margin:auto;
+    margin-top: 10px;
+    background-color: #FDFEFE;
+    border-radius:13px;
+
+
+   }
+
+h1{
+  padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 5rem;
+    }
+
+h3{
+  color:red;
+  font-size:20px;
+  text-align:right;
+  text-indent: -150px;
+  }
+
+h1{
+  font-size :30px;
+  text-align:right;
+  text-indent: -250px;
+}
+
+input[type="submit"]{
+  background-color:blue;
+ color:white;
+  padding:12px 10px;
+  border:none;
+  border-radius:3px;
+  cursor:pointer;
+  width:8%;
+  margin-left:235px ;
+  margin-top:15px;
+}
+
+
+
+.multi-choice-grid{
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 5rem;
+    border:2px solid;
+    text-align:center;
+    height:350px;
+    width:100px;
+    margin:auto;
+    margin-top: 10px;
+    border:1px solid;
+    border-radius:13px;
+}
+
+.thick-box-grid{
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 5rem;
+    border:2px solid;
+    text-align:center;
+    height:350px;
+    width:100px;
+    margin:auto;
+    margin-top: 10px;
+    border:1px solid;
+    border-radius:13px;
+
+
+
+}
+
+.body{
+    background-color:lightgray;
+
+}
+
+h5{
+    text-indent: -26px;
+    text-align:center;
+    font-size:15px;
+}
+
+.footer {    
+    font-size:20px;
+    color: blue;
+    cursor:pointer;
+        height: 20px;
+        position: relative;
+        top:-50px;
+}
+       
+.center {
+        display:flex;
+ text-indent: 1140px;
+        align-items:center;
+        }
+
+        h2{
+            text-align: center;
+            font-size:30px;
+           margin-top:-15px;
+ }
+.container_1{
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 5rem;
+    border:1px solid;
+    border-top:12px solid rgba(13, 13, 153, 0.885);
+    border-radius:13px;
+    text-align:center;
+    height:250px;
+    width:100px;
+    margin:auto;
+    margin-top: 10px;
+    background-color: #FDFEFE;
+
+   
+}
+
+.container_2{
+    padding-left: 30%;
+      padding-right: 30%;
+      margin-bottom: 5rem;
+      border:1px solid;
+      text-align:center;
+      height:250px;
+      width:100px;
+      margin:auto;
+      margin-top: 10px;
+      background-color: #FDFEFE;
+      border-radius:13px;
+
+
+     }
+     .input-div input{
+        width:300px;
+        border:0;
+        outline:0;
+        border-bottom:1.5px solid ;
+
+     }
+     
+     .last-div {
+        text-align:center;
+        padding-top:10px;
+        font: weight 200px;
+}
+      .term{
+        font-size:15px;
+        font-weight:400;
+    
+      }
+      .never{
+        text-indent: -700px;
+        font-size:15px;
+        font-weight:400;
+      }
+      h2{
+        margin-top:10px;
+      }
